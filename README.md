@@ -6,7 +6,7 @@ Digging into Data, and fetching insightful information from analysis is somethin
 I'd be delighted to uncover details and insights that would aid full comprehension of your data to help you take shrewd decisions that would bring light to your enterprise.
 **Razzode/Razzode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Python/Data Visualisation/Machine Learning/SQL
 
 - 🤔 I’m currently looking for intern roles
 - 🌱 I’m learning more about data visualisation 
